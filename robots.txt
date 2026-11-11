@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mariageorgiou111-droid.github.io/ai-workflow-lab/sitemap.xml
+Sitemap: https://aiworkflowlab.pages.dev/sitemap.xml
