@@ -5,3 +5,6 @@
 .prose th{background:#eaf3f9}
 .prose table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
 a:focus-visible{outline:3px solid #145a91;outline-offset:3px}
+
+/* Accessible, responsive controls and readable interactive tools */
+button,input{font:inherit}button,.button{cursor:pointer;border:1px solid #173f6b;border-radius:9px;background:#173f6b;color:#fff;padding:11px 17px;font-weight:650;min-height:44px}button:hover,.button:hover{background:#0e3156;color:white;text-decoration:none}input[type=number]{width:100%;max-width:280px;border:1px solid #9caebe;border-radius:8px;padding:10px 12px;background:#fff;color:#1b293a;min-height:44px}label{font-weight:600}button:focus-visible,input:focus-visible,.button:focus-visible{outline:3px solid #d07816;outline-offset:3px}.cards article{box-shadow:0 3px 14px rgba(16,40,70,.035)}.cards article a{font-weight:650}main>h2:first-child{margin-top:0}blockquote{margin:1.25rem 0;padding:18px 22px;border-left:4px solid #145a91;background:#eaf3f9;border-radius:4px;overflow-wrap:anywhere}@media(max-width:650px){header{padding:18px 20px}nav{display:flex;flex-wrap:wrap;gap:12px}nav a{margin:0}main{padding:30px 18px 65px}.cards{grid-template-columns:1fr}.cards article{padding:20px}h1{font-size:clamp(2rem,8vw,2.7rem)}}
